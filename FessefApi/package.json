@@ -1,0 +1,28 @@
+{
+    "name": "fessefapi",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        "express": "*",
+        "bcryptjs": "*",
+        "body-parser": "*",
+        "cors": "*",
+        "superlogin": "*",
+        "pouchdb": "*",
+        "pouchdb-find": "*"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mobalick/FessefApp.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/mobalick/FessefApp/issues"
+    },
+    "homepage": "https://github.com/mobalick/FessefApp#readme"
+}
